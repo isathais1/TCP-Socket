@@ -1,5 +1,5 @@
 {
-    "name": "parsidev/tcp-socket",
+    "name": "isathais1/tcp-socket",
     "description": "TCP Socket for Laravel 5",
     "license": "MIT",
     "authors": [{
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Parsidev\\Socket": "src/"
+            "isathais1\\Socket": "src/"
         }
     },
     "minimum-stability": "stable"
