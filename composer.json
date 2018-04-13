@@ -1,16 +1,14 @@
 {
     "name": "parsidev/tcp-socket",
-    "description": "TCP Socket for Laravel 5.4",
+    "description": "TCP Socket for Laravel 5",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Mohammad Reza",
-            "email": "info@parsidev.ir"
-        }
-    ],
+    "authors": [{
+        "name": "Isa Thais",
+        "email": "isathais@yahoo.com.br"
+    }],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/support": "5.4.*"
+        "illuminate/support": "5.*"
     },
     "autoload": {
         "psr-0": {
